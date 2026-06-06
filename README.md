@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Analytics Dashboard
+# 🛒 Retail Sales Analytics Dashboard PYTHON
 
 A comprehensive data analysis and visualization project built with Python, demonstrating advanced pandas manipulation, NumPy operations, and Matplotlib/Seaborn dashboarding on a synthetic retail dataset of 500 transactions.
 
